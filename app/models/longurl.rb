@@ -1,0 +1,2 @@
+class Longurl < ApplicationRecord
+end
